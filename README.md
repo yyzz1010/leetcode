@@ -1,6 +1,10 @@
 # leetcode
 Archive of [LeetCode](https://leetcode.com/wongkayankaren/) Problems. 
 
+* [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+  * [code](./1207.py)
+* [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+  * [code](./961.py)
 * [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
   * [code](./905.py)
 * [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
