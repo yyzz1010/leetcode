@@ -1,6 +1,10 @@
 # leetcode
 Archive of [LeetCode](https://leetcode.com/wongkayankaren/) Problems. 
 
+* [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+  * [code](461.py)
+* [627. Swap Salary](https://leetcode.com/problems/swap-salary/)
+  * [code](./628.sql)
 * [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
   * [code](./1207.py)
 * [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
