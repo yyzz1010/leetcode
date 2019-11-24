@@ -1,6 +1,8 @@
 # leetcode
 Archive of [LeetCode](https://leetcode.com/wongkayankaren/) Problems. 
 
+* [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+  * [code](./500.py)
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
   * [code](461.py)
 * [627. Swap Salary](https://leetcode.com/problems/swap-salary/)
