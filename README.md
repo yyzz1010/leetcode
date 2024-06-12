@@ -1,5 +1,5 @@
 # leetcode
-Archive of [LeetCode](https://leetcode.com/wongkayankaren/) Problems. 
+Archive of [LeetCode](https://leetcode.com/wongkayankaren/) problems. 
 
 * [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
   * [code](./500.py)
